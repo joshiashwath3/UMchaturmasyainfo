@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1028533182555",
+    "firebase_url": "https://um-chaturmasya-info-34389.firebaseio.com",
+    "project_id": "um-chaturmasya-info-34389",
+    "storage_bucket": "um-chaturmasya-info-34389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028533182555:android:d71fa79a9c0258ba",
+        "android_client_info": {
+          "package_name": "org.chaturmasyakalaburgi2018.umchaturmasyainfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028533182555-vprjq834rh89ffek6vg61io12uc1va3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.chaturmasyakalaburgi2018.umchaturmasyainfo",
+            "certificate_hash": "acd17f79826dd85961bc063708f507af699509a0"
+          }
+        },
+        {
+          "client_id": "1028533182555-3d8usvkvpc7u54f8tm0ae1kub1pckl3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmn81hryHTq2UTo7hvlx3jFqg2UXGqoj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028533182555-3d8usvkvpc7u54f8tm0ae1kub1pckl3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

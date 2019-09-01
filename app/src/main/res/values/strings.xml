@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">UM Chaturmasya Info</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Login</string>
+    <string name="nav_header_subtitle">© Chaturmasya Kalaburgi 2018</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_event">Events \n ಕಾರ್ಯಕ್ರಮಗಳು</string>
+
+    <!--    for real adds  -->
+<!--    <string name="banner_ad_unit_id">ca-app-pub-8688068417981262/9583892892</string>
+    <string name="banner_ad_unit_idpravachana">ca-app-pub-8688068417981262/9112053948</string>
+    <string name="banner_ad_unit_Interstitiallive">ca-app-pub-8688068417981262/6769393804</string>
+    <string name="banner_ad_unit_Interstitialvideos">ca-app-pub-8688068417981262/5040135895</string>-->
+
+    <!--    for test adds  -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_idpravachana">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_Interstitiallive">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_unit_Interstitialvideos">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="how_to_reach">HOW TO REACH KALBURGI (GULBARGA) BRIEF DESCRIPTION
+\n
+\n•	Gulbarga(Kalburgi) is major city and district of the North Karnataka region. Gulbarga is at a 623 km from Bangalore and 220 km from Hyderabad.
+\n
+\n•	Gulbarga(Kalburgi) is well connected by Road and train from all the major cities from Karnataka,Maharastra, Telangana, Andhra and Tamilnadu.
+\n
+\n•	You will get Buses at regular intervals from almost all the cities of Karnataka. You can check the Bus availability at http://www.ksrtc.in/oprs-web/ and https://www.redbus.in/bus-tickets/ (Use this Redbus site to only check the buses while booking seats use particular traveler site).
+\n
+\n•	If you are travelling from Maharashtra, Gulbarga has well connected train route from Mumbai and Pune cities and also you have the sleeper buses from Mumbai and Pune cities which can checked at http://www.ksrtc.in/oprs-web/.
+\n
+\n•	The nearest big city to Gulbarga from Maharashtra is Solapur which is at a distance of 125 KM and well connected by train (take 2 Hours to reach) and Bus Route (takes 3-4 hours approx.).
+\n
+\n•	Gulbarga is having the train route to the Srirangam, Madurai, KanyaKumari, Nagercoil, Chennai, Hydrabad, Secunderabad, Kakinada, Vijaywada, Visakhapatnam, Bhubaneswar some train details are above.
+\n
+\n•	If you are travelling from Bangalore then it will take approx 12 hours to Gulbarga the best train is Hassan-Solapur(22134) Express(Also known as Solapur-Yesvantpur Express), which will leave Yesvantpur at 8.50 PM and will reach Gulbarga by 6.30 AM and Same train will Run from Gulbarga at 8.50 PM and will reach Yesvantpur by 7.20 AM  Daily. You can choose alternatively 17308(Basava Express which will be starting and Ending at Mysore) and 11301 (udayan Express) or KSRTC ,VRL,SRS  BUS services some BUS details are above.
+
+\n\nHOW TO REACH VENUE:
+\n
+\nThe Venue of Chaturmasya is Sri Rukmini Vitthal Mandir Bramhapur Gulbarga(Kalburgi) which also popularly known as Sri Raghavendra Swami Math Bramhapur Gulbarga(Kalburgi)
+\n
+\nDistance From Gulbarga(Kalburgi) Central Bus Stand to Uttaradi Mutt Brahmpur (which also popularly known as Sri Raghavendra Swami Math Brahmpur Gulbarga) is 2 KM.
+\nYou can take the Local Autos Since OLA and UBER availability is lees and can tell the above address and they will charge approx 30 to 50 RS per trip
+\n
+\nDistance From Gulbarga(Kalburgi) Railway Station to Uttaradi Mutt Brahmpur (which also popularly known as Sri Raghavendra Swami Math Brahmpur Gulbarga) is 3 KM.
+\n
+\nYou can take the Local Autos Since OLA and UBER availability is less and can tell the above address and they will charge approx 50 RS per trip
+
+</string>
+    <string name="title_activity_pravachana_location">Map</string>
+
+    <string name="helpString">Help &amp; Support
+\n\nCommittee Members
+\n
+\nPdt. Gopalachar Akamanchi	    9449618707
+\nPdt. Venkannachar Pujar	    9448181288
+\nPdt. Vinodachar Galagali	    9448441740
+\nSri. Ramachar Ghanti	        9686528491
+\n\nEnquiry Committee
+\nSri. Radhakrishna Kulkarni	9880801550
+\nSri. Madhusudhan Bilurkar	    9449619070
+\n\nAccomadation Committee
+\nSri. Jayateerth Bagewadi      9845676623
+\nSri. Deepak Savalgi	        8123124632
+\n\nTransport Committee
+\nSri. Raghavendra Nillur	    9482060600
+\nSri. Aravind Kulkarni	        8951634056
+\n\nPadapooja Committee
+\nSri. Narayan Omkar	        9448160015
+\nSri. Venkatesh Ashtagi	    9538565696
+</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

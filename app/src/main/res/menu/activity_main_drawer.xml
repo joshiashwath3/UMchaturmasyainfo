@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_PadaPoojaBooking"
+            android:icon="@drawable/ic_calendar_icon"
+            android:title="Updates" />
+        <item
+            android:id="@+id/nav_SavaList"
+            android:icon="@drawable/ic_seva_logo"
+            android:title="Sava List" />
+        <item
+            android:id="@+id/nav_Event"
+            android:icon="@drawable/ic_election_event_on_a_calendar_with_star_symbol"
+            android:title="Event" />
+        <item
+            android:id="@+id/nav_audio_pravchana"
+            android:icon="@drawable/ic_mic"
+            android:title="Audio Pravchana" />
+        <item
+            android:id="@+id/nav_video_pravchana"
+            android:icon="@drawable/ic_youtube"
+            android:title="Video Pravchana" />
+        <item
+            android:id="@+id/nav_live_pravchana"
+            android:icon="@drawable/ic_live"
+            android:title="Live Pravchana" />
+        <item
+            android:id="@+id/nav_nearByPlace"
+            android:icon="@drawable/ic_location_on_black_24dp"
+            android:title="Near By Places" />
+        <item
+            android:id="@+id/nav_howtoreachMath"
+            android:icon="@drawable/ic_hindu_temple"
+            android:title="How to Reach UM " />
+        <item
+            android:id="@+id/nav_vounteering_reistratin"
+            android:icon="@drawable/ic_om_symbol"
+            android:title="Volunteering Registration" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/ic_facebook_logo"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_helpLine"
+                android:icon="@drawable/ic_help_outline_black_24dp"
+                android:title="Help Line" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_feedback"
+                android:title="Feedback" />
+
+        </menu>
+    </item>
+
+
+</menu>
